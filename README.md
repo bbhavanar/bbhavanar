@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Let's Connect
-- 🔗 [LinkedIn](www.linkedin.com/in/k-nishanth-reddy)
+- 🔗 [LinkedIn]www.linkedin.com/in/k-nishanth-reddy
 - 📧 Email: nishanthreddy1320@gmail.com
 
 
