@@ -1,37 +1,32 @@
-## 👋 Hello, I'm Nishanth Reddy!
+# Hi, I'm Nishanth Reddy 👋
 
-🎓 Final Year B.Tech CSE Student  
-☕ Java Enthusiast | 💻 Passionate about Backend Development & Programming  
-🚀 Learning and building real-world projects in Java and Python
+**Computer Science & Engineering graduate | Full-Stack Developer**
 
----
+I build, deploy, and operate real-world web platforms end to end — from database design and backend logic to production deployment on my own servers. I like turning complex requirements into working products that real people actually use.
 
-### 💼 What I'm Working On
-- Practicing Java with real-time console projects
-- Learning  MySQL
-- Preparing for technical interviews (DSA & core Java)
+📍 Hyderabad, India
+📧 nishanthreddy1320@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/k-nishanth-reddy)
 
 ---
 
-### 🧠 Skills & Interests
-- Languages: Java, Python, C ,basic Html, Mysql
-- Concepts: OOP, DSA, DBMS
-- Tools: Git, IntelliJ , VS Code , Eclipse
-- Areas of Interest: Backend Development, Software Engineering, System Design
+### 🚀 Live Products I've Built & Operate
 
----
+| Project | What it is | Live |
+|---|---|---|
+| **CPMBid** | Advertising network with 280+ registered users & 192+ monetized websites | [cpmbid.com](https://cpmbid.com) |
+| **PressGT** | News & article publishing platform, self-deployed on a Linux VPS | [pressgt.com](https://pressgt.com) |
+| **Veish** | E-commerce store built on WordPress / WooCommerce | [veish.in](https://veish.in) |
 
-### 📚 Projects (Uploading Soon!)
-- Java Console Apps (Banking System, Student Manager)
-- Python College Project (with File Handling)
-- Spring Boot REST API (Coming soon!)
+### 🛠️ Tech I Work With
 
----
+**Languages:** Python · Java · C · SQL · PHP
+**Web:** HTML5 · CSS3 · JavaScript · Bootstrap · AJAX
+**Data:** MySQL · SQL · Excel
+**Platforms:** Linux VPS · Nginx/Apache · WordPress/WooCommerce · Git · cPanel · REST APIs
 
-### 📫 Let's Connect
-- 🔗 [LinkedIn]www.linkedin.com/in/k-nishanth-reddy
-- 📧 Email: nishanthreddy1320@gmail.com
+### 📈 A bit about how I work
 
+I'm a fast, self-driven learner. I've built full platforms with authentication, payment integration, role-based dashboards, and AI-driven features, and I've handled the full deployment pipeline — provisioning a Linux VPS, configuring the web server and database, and maintaining sites in production with live users.
 
-
-
+> 📌 Source code for my platforms is kept private. These repositories showcase what each product does — visit the live links to see them in action.
