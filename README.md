@@ -14,7 +14,7 @@ I build, deploy, and operate real-world web platforms end to end — from databa
 
 | Project | What it is | Live |
 |---|---|---|
-| **CPMBid** | Advertising network with 280+ registered users & 192+ monetized websites | [cpmbid.com](https://cpmbid.com) |
+| **CPMBid** | Advertising network with 470+ registered users & 80+ monetized websites | [cpmbid.com](https://cpmbid.com) |
 | **PressGT** | News & article publishing platform, self-deployed on a Linux VPS | [pressgt.com](https://pressgt.com) |
 | **Veish** | E-commerce store built on WordPress / WooCommerce | [veish.in](https://veish.in) |
 
